@@ -27,7 +27,7 @@ namespace Homework9
                 }
                 catch (Exception)
                 {
-                    Console.WriteLine("Введите число корректное число");
+                    Console.WriteLine("Введите корректное число");
                     Console.ReadLine();
                     continue;
                 }
